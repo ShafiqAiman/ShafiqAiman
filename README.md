@@ -36,4 +36,5 @@
 
 [![image](https://user-images.githubusercontent.com/32039212/128548059-ad925d4c-1881-4115-abce-fa716819e592.png)
 ](https://www.linkedin.com/in/shafiq-aimann/)
+[![gmail](https://user-images.githubusercontent.com/32039212/128591012-0265bdeb-6a61-4ad4-9555-3613c821fb05.gif)](mailto:shafiqaimansn@gmail.com)
 
