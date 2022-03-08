@@ -1,4 +1,4 @@
-![](./src/header_.png)
+![image](https://user-images.githubusercontent.com/32039212/157265461-9bdc24cd-8b69-4e81-a064-256b063e3201.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
