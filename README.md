@@ -41,10 +41,10 @@ Property | Data
 
 
 
-![Profile views](https://gpvc.arturio.dev/BEPb)
+<!-- ![Profile views](https://gpvc.arturio.dev/BEPb)
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
-</p>
+</p> -->
   
 
