@@ -5,11 +5,11 @@
 ![gallery-pet-logo](https://user-images.githubusercontent.com/32039212/128589929-067dde89-352b-4367-981d-990e8d327baf.jpg)
 
 
-| Tables        | Are           |
+| Skills        | Data           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      | 
-| zebra stripes | are neat      | 
+| Programming Languages     | Python, Java, PHP |
+| Tools & Frameworks     | React.js, Vue.js, Django, Bootstrap      | 
+| Databases | PostgreSQL, MySQL      | 
 
 
 #### You can reach me on:
