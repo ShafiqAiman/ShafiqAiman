@@ -12,7 +12,7 @@
 
 Property | Data
 --- | --- 
-**Programming Languages**  | [![Python](https://user-images.githubusercontent.com/32039212/157281373-3e3a1ceb-d395-4876-bd95-a9a8d874c395.png)](https://github.com/BEPb/BEPb) [![Java](https://user-images.githubusercontent.com/32039212/157281674-dbd402a6-e513-45b1-b029-04a5635389b5.png)](https://github.com/BEPb/BEPb)
+**Programming Languages**  | ![Python](https://user-images.githubusercontent.com/32039212/157281373-3e3a1ceb-d395-4876-bd95-a9a8d874c395.png)
 
 **Domain Knownledge**  | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) 
 **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)
