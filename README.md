@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a **✨Project & Delivery Intern at PETRONAS!✨**
-
-![gallery-pet-logo](https://user-images.githubusercontent.com/32039212/128589929-067dde89-352b-4367-981d-990e8d327baf.jpg)
-
-
 | Skills        | Data           |
 | ------------- |:-------------:|
 | Programming Languages     | Python, Java, PHP |
 | Tools & Frameworks     | React.js, Vue.js, Django, Bootstrap      | 
 | Databases | PostgreSQL, MySQL      | 
+| Version Tools | Git, GitHub, GitLab      | 
+| CI/CD | GitHub Action     | 
 
 
 #### You can reach me on:
