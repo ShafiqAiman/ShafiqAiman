@@ -22,7 +22,7 @@ Property | Data
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!-- ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
 
  . | .
@@ -48,3 +48,4 @@ Property | Data
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
 </p>
   
+ -->
